@@ -1,2 +1,2 @@
 # font-awesome-test
-Exploring Font Awesom
+Exploring Font Awesome
